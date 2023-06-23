@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/video-call-app/static/css/main.3dac35c4.css",
+    "main.js": "/video-call-app/static/js/main.a82a7bc5.js",
+    "index.html": "/video-call-app/index.html",
+    "main.3dac35c4.css.map": "/video-call-app/static/css/main.3dac35c4.css.map",
+    "main.a82a7bc5.js.map": "/video-call-app/static/js/main.a82a7bc5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3dac35c4.css",
+    "static/js/main.a82a7bc5.js"
+  ]
+}
